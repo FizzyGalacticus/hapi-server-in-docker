@@ -1,0 +1,15 @@
+{
+  "name": "hapi-server-in-docker",
+  "version": "1.0.0",
+  "description": "Example repo for developing Hapi applications within docker",
+  "main": "index.js",
+  "repository": "https://github.com/FizzyGalacticus/hapi-server-in-docker",
+  "author": "Dustin L. Dodson <dustinleedodson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
